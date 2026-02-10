@@ -1,5 +1,4 @@
 {
   "buildCommand": "./gradlew jsBrowserDistribution",
-  "outputDirectory": "web/productionExecutable",
-  "framework": null
+  "outputDirectory": "build/js/packages/composeweb-composeApp/kotlin"
 }

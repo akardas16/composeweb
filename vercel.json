@@ -1,5 +1,5 @@
 {
   "buildCommand": "./gradlew jsBrowserDistribution",
-  "outputDirectory": "build/dist/js/productionExecutable",
+  "outputDirectory": "web/productionExecutable",
   "framework": null
 }
